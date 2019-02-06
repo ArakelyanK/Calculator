@@ -13,7 +13,7 @@ namespace Calc
         {
             // The code provided will prdouble ‘Hello World’ to the console.
             // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
-            Console.WriteLine("Калькудятор\n");
+            Console.WriteLine("Калькулятор\n");
             bool endapp = false;
             while (endapp == false)
             {
